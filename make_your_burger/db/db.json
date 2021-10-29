@@ -77,40 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "dsfdsf",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "rreewr",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "sdsasad",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    }
-  ]
+  "burgers": []
 }
